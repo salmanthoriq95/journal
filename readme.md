@@ -22,37 +22,37 @@ Once I have a good understanding of how to create software projects effectively,
 
 1. Level 1
 
-| Learning              | Progress | Link Github |
-| --------------------- | -------- | ----------- |
-| Fullstack Development | 0 %      |             |
-| Computer Science      | 0 %      |             |
+| Learning              | Progress | Link Github | Link Gitlab |
+| --------------------- | -------- | ----------- | ----------- |
+| Fullstack Development | 0 %      |             |             |
+| Computer Science      | 0 %      |             |             |
 
 2. Level 2
 
-| Learning             | Progress | Link Github |
-| -------------------- | -------- | ----------- |
-| Typescript           | 0 %      |             |
-| Backend Development  | 0 %      |             |
-| NodeJs               | 0 %      |             |
-| Typescript           | 0 %      |             |
-| Frontend Development | 0 %      |             |
-| ReactJs              | 0 %      |             |
-| SQL                  | 0 %      |             |
-| PostgreSQL           | 0 %      |             |
-| MySQL                | 0 %      |             |
-| NoSQL                | 0 %      |             |
-| MongoDb              | 0 %      |             |
-| DevOps               | 0 %      |             |
-| Docker               | 0 %      |             |
-| Kubernetes           | 0 %      |             |
+| Learning             | Progress | Link Github | Link Gitlab |
+| -------------------- | -------- | ----------- | ----------- |
+| Typescript           | 0 %      |             |             |
+| Backend Development  | 0 %      |             |             |
+| NodeJs               | 0 %      |             |             |
+| Typescript           | 0 %      |             |             |
+| Frontend Development | 0 %      |             |             |
+| ReactJs              | 0 %      |             |             |
+| SQL                  | 0 %      |             |             |
+| PostgreSQL           | 0 %      |             |             |
+| MySQL                | 0 %      |             |             |
+| NoSQL                | 0 %      |             |             |
+| MongoDb              | 0 %      |             |             |
+| DevOps               | 0 %      |             |             |
+| Docker               | 0 %      |             |             |
+| Kubernetes           | 0 %      |             |             |
 
 3. Level 3
 
-| Learning                | Progress | Link Github |
-| ----------------------- | -------- | ----------- |
-| Code Review             | 0 %      |             |
-| Design System           | 0 %      |             |
-| Design and Architecture | 0 %      |             |
-| Software Architec       | 0 %      |             |
-| API Security            | 0 %      |             |
-| Frontend Performance    | 0 %      |             |
+| Learning                | Progress | Link Github | Link Gitlab |
+| ----------------------- | -------- | ----------- | ----------- |
+| Code Review             | 0 %      |             |             |
+| Design System           | 0 %      |             |             |
+| Design and Architecture | 0 %      |             |             |
+| Software Architec       | 0 %      |             |             |
+| API Security            | 0 %      |             |             |
+| Frontend Performance    | 0 %      |             |             |
