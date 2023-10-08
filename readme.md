@@ -22,10 +22,10 @@ Once I have a good understanding of how to create software projects effectively,
 
 1. Level 1
 
-| Learning              | Progress | Link Github | Link Gitlab |
-| --------------------- | -------- | ----------- | ----------- |
-| Fullstack Development | 0 %      |             |             |
-| Computer Science      | 0 %      |             |             |
+| Learning              | Progress | Link Github                                             | Link Gitlab                                                  |
+| --------------------- | -------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| Fullstack Development | 0 %      | https://github.com/salmanthoriq95/fullstack-development | https://gitlab.com/salman-code-journal/fullstack-development |
+| Computer Science      | 0 %      |                                                         |                                                              |
 
 2. Level 2
 
